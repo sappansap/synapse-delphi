@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.12.27 08:28:33.850.pas,C:\Documents and Settings\zheltov.aa\Мои документы\Borland Studio Projects\Unit1.pas=C:\_ADSearch\source\uMain.pas</Transaction>
+    <Transaction>2010.12.27 08:28:33.850.dfm,C:\Documents and Settings\zheltov.aa\Мои документы\Borland Studio Projects\Unit1.dfm=C:\_ADSearch\source\uMain.dfm</Transaction>
+    <Transaction>2010.12.27 08:28:40.054.bdsproj,C:\Documents and Settings\zheltov.aa\Мои документы\Borland Studio Projects\Project1.bdsproj=C:\_ADSearch\source\ADSearch.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
